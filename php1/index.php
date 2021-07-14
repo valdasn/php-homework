@@ -122,7 +122,7 @@ $averageBefore = $numbers1 + $numbers2 + $numbers3;
 $averageBefore = $averageBefore / 3;
 $averageBefore = round($averageBefore);
 //neveikia
-// $averageAfter = 1;
+// $averageAfter = 0;
 // if ($numbers1 < 10 || $numbers1 > 90 ) {
 //     $averageAfter = $numbers2 + $numbers3 / 3;
 //     $averageAfter = round($averageAfter);
